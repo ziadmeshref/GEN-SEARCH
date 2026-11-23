@@ -1,0 +1,7 @@
+numpy
+pandas
+matplotlib
+biopython   # oracle / GenBank parsing only, never the search engine itself
+pytest
+pytest-cov
+ruff
